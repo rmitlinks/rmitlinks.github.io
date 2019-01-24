@@ -28,6 +28,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
+This site is not owned nor endorsed by RMIT University.
+
 ## Contributing
 
 See [Contributing](CONTRIBUTING.md).
