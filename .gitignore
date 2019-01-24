@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-metadata
+_/
+.DS_Store
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
